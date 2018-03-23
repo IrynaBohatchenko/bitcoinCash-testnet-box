@@ -1,0 +1,8 @@
+.project
+1/*
+2/*
+!1/regtest/server.*
+!2/regtest/server.*
+!1/bitcoinCash.conf
+!2/bitcoinCash.conf
+node_modules/
